@@ -1,6 +1,8 @@
 
 # OpenAI Assistant SDK
 
+**⚠️ UNDER DEVELOPMENT: This package is currently in active development and not ready for production use.**
+
 This package provides an easy-to-use interface for interacting with OpenAI's API to manage assistants, threads, messages, and runs.
 
 ## Features
